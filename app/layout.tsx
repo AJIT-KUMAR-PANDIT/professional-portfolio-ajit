@@ -4,8 +4,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Ajit Kumar Pandit — Full Stack Developer',
-  description: 'Portfolio of Ajit Kumar Pandit, a Full Stack MERN Developer building scalable web applications and AI-powered solutions.',
-  generator: 'v0.app',
+  description: 'Portfolio of Ajit Kumar Pandit, a Full Stack Developer building scalable web applications and AI-powered solutions.',
 }
 
 export const viewport: Viewport = {
