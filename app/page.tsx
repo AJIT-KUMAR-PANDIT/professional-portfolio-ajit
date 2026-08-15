@@ -8,7 +8,7 @@ const skillGroups = [
   { label: 'Frontend', skills: ['React.js', 'Next.js', 'TypeScript', 'JavaScript', 'Tailwind CSS', 'Redux', 'REST APIs'] },
   { label: 'Backend', skills: ['Node.js', 'Express.js', 'MongoDB', 'RESTful API Design'] },
   { label: 'Cloud & Infrastructure', skills: ['AWS · EC2', 'MinIO · Open Source S3', 'Docker', 'Linux', 'Cloudflare', 'Vercel'] },
-  { label: 'AI / ML & LLM Integration', skills: ['Deep Learning', 'Neural Networks', 'TensorFlow / PyTorch', 'Computer Vision', 'LLM Integration', 'AI Agents', 'Prompt Engineering'] },
+  { label: 'AI / ML & LLM Integration', skills: ['LLM Integration', 'Claude Code', 'Simple RAG'] },
 ]
 
 const projects = [
