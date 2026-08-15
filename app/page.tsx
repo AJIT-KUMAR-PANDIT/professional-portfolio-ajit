@@ -11,9 +11,9 @@ const skillGroups = [
 ]
 
 const projects = [
-  { number: '01', title: 'AI-powered intelligent systems', description: 'Practical AI integrations, LLM-powered workflows, and neural network experiments built around real-world problems.', tags: ['Full Stack', 'AI / ML', 'LLM Integration'] },
+  { number: '01', title: 'Intelligent web applications', description: 'End-to-end full-stack products with smart features, RESTful APIs, and seamless user experiences built around real-world problems.', tags: ['Full Stack', 'Next.js', 'Node.js'] },
   { number: '02', title: 'Full-stack web applications', description: 'Scalable digital products crafted from thoughtful interfaces to clean, reliable architectures.', tags: ['Full Stack', 'Next.js', 'Cloud'] },
-  { number: '03', title: 'AI research & experiments', description: 'Computer vision models, deep learning prototypes, and creative engineering exploring the frontier of AI.', tags: ['Deep Learning', 'Python', 'Research'] },
+  { number: '03', title: 'Open-source projects & experiments', description: 'Creative engineering explorations with Python, cloud services, and modern tooling pushing the boundaries of what can be built.', tags: ['Python', 'Cloud', 'Research'] },
 ]
 
 export default function Page() {
@@ -44,7 +44,7 @@ export default function Page() {
 
       <section id="about" className="section-shell content-section about-section">
         <div className="section-label">01 / About me</div>
-        <div className="about-grid"><div><h2>Engineering clarity<br /><span>into complexity.</span></h2></div><div className="about-text"><p>I&apos;m a passionate Full Stack Developer &amp; AI / ML enthusiast based in <strong>Jamshedpur, Jharkhand, India</strong>, with a deep love for crafting innovative and intelligent web applications.</p><p>My focus is on AI-powered solutions, LLM integration, and building scalable full-stack products that solve real-world problems.</p><p className="quote">Build over hype.<br />Quality over quantity.</p></div></div>
+        <div className="about-grid"><div><h2>Engineering clarity<br /><span>into complexity.</span></h2></div><div className="about-text"><p>I&apos;m a passionate Full Stack Developer based in <strong>Jamshedpur, Jharkhand, India</strong>, with a deep love for crafting innovative and scalable web applications.</p><p>My focus is on building high-performance full-stack products using modern frameworks, cloud-native infrastructure, and clean architecture that solve real-world problems.</p><p className="quote">Build over hype.<br />Quality over quantity.</p></div></div>
         <div className="stats"><div><strong>44<span>+</span></strong><small>PUBLIC REPOSITORIES</small></div><div><strong>21<span>+</span></strong><small>TECHNICAL ARTICLES</small></div><div><strong>1<span>+</span></strong><small>GITHUB PROJECTS</small></div></div>
       </section>
 
