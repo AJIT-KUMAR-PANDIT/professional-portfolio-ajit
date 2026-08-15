@@ -8,7 +8,6 @@ const skillGroups = [
   { label: 'Frontend', skills: ['React.js', 'Next.js', 'TypeScript', 'JavaScript', 'Tailwind CSS', 'Redux', 'REST APIs'] },
   { label: 'Backend', skills: ['Node.js', 'Express.js', 'MongoDB', 'RESTful API Design'] },
   { label: 'Cloud & Infrastructure', skills: ['AWS · EC2', 'MinIO · Open Source S3', 'Docker', 'Linux', 'Cloudflare', 'Vercel'] },
-  { label: 'AI / ML & LLM Integration', skills: ['LLM Integration', 'Claude Code', 'RAG'] },
 ]
 
 const projects = [
@@ -37,8 +36,8 @@ export default function Page() {
         <div className="hero-kicker"><span className="status-dot" /> Fresher · Available for opportunities — India</div>
         <p className="eyebrow">Hello, I&apos;m</p>
         <h1>Ajit Kumar<br /><em>Pandit</em></h1>
-        <div className="role-line"><span /> Full Stack Developer | AI / ML Engineer</div>
-        <p className="hero-copy">Crafting AI-powered solutions and intelligent web applications at the intersection of scalable architecture, LLM integration, and creative engineering.</p>
+        <div className="role-line"><span /> Full Stack Developer</div>
+        <p className="hero-copy">Building performant, scalable full-stack web applications with clean architecture, modern frameworks, and cloud-native infrastructure.</p>
         <div className="hero-actions"><a className="button button-primary" href="#projects">View my work <ArrowUpRight size={16} /></a><a className="button button-ghost" href="#contact">Get in touch</a></div>
         <div className="social-row"><a href="https://github.com/ajit-kumar-pandit" target="_blank" rel="noreferrer"><Code2 size={17} /> GitHub</a><a href="#education"><BriefcaseBusiness size={17} /> Education</a><a href="mailto:ajit@nakprc.com"><Mail size={17} /> Email</a></div>
       </section>
